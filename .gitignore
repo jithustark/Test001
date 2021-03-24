@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+
+.bsp
+.idea
+project
+target
+

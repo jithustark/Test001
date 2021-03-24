@@ -1,0 +1,1 @@
+Let’s say we have a large data file of over 90 GB and we’re tasked with writing a program that counts the total number of words in the file and writes the result to another file. A naive approach will be to load the file into memory and then try to count the words.
